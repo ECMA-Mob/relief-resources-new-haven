@@ -6,7 +6,7 @@ module.exports = {
         authorName: `some Gatsby folks`,
         authorLink: `https://twitter.com/gatsbyjs`,
         remixAuthorName: `Henry Quinn`,
-        remixAuthorName: `https://henryneeds.coffee`,
+        remixAuthorLink: `https://henryneeds.coffee`,
       },
     },
   ],
